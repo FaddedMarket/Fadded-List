@@ -1,0 +1,397 @@
+[
+  {
+    "name": "1Shows",
+    "url": "https://www.1shows.org/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "1Flex",
+    "url": "https://www.1flex.org/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "1Tube",
+    "url": "https://www.1tube.org/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "AlienFlix",
+    "url": "https://alienflix.net/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "FlickyStream",
+    "url": "https://flickystream.ru/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Wooflix",
+    "url": "https://cinebytv.com/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "RiveStream",
+    "url": "https://rivestream.org/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "CinemaBZ",
+    "url": "https://cinema.bz/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Spenflix",
+    "url": "https://watch.spencerdevs.xyz/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "FilmCave",
+    "url": "https://filmcave.ru/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Corsflix",
+    "url": "https://watch.corsflix.net/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Cinegram",
+    "url": "https://cinegram.net/home",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Bcine",
+    "url": "https://bcine.app/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "StreamX",
+    "url": "https://streamex.net/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Cinezo",
+    "url": "https://www.cinezo.net/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Cineby",
+    "url": "https://www.cineby.gd/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Donkey",
+    "url": "https://donkey.to/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Willow",
+    "url": "https://willow.arlen.icu/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "SFlix",
+    "url": "https://sflix.fi/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Nepu",
+    "url": "https://nepu.to/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "FMovies",
+    "url": "https://fmovies-hd.to/home/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "67Movies",
+    "url": "https://67movies.net/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Xprime",
+    "url": "https://xprime.stream/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "SmashyStream",
+    "url": "https://smashystream.xyz/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Flixway",
+    "url": "https://flixway.pro/",
+    "category": "Movies & Shows"
+  },
+  {
+    "name": "Anikage",
+    "url": "https://anikage.cc/home",
+    "category": "Anime"
+  },
+  {
+    "name": "AniDap",
+    "url": "https://anidap.se/home",
+    "category": "Anime"
+  },
+  {
+    "name": "Enma",
+    "url": "https://www.enma.lol/",
+    "category": "Anime"
+  },
+  {
+    "name": "Animex",
+    "url": "https://animex.one/home",
+    "category": "Anime"
+  },
+  {
+    "name": "Anime Nexus",
+    "url": "https://anime.nexus/",
+    "category": "Anime"
+  },
+  {
+    "name": "1Anime",
+    "url": "https://1anime.app/discover",
+    "category": "Anime"
+  },
+  {
+    "name": "Miruro",
+    "url": "https://www.miruro.to/",
+    "category": "Anime"
+  },
+  {
+    "name": "yenime",
+    "url": "https://yenime.net/",
+    "category": "Anime"
+  },
+  {
+    "name": "Anistream",
+    "url": "https://anistream.one/",
+    "category": "Anime"
+  },
+  {
+    "name": "animepahe",
+    "url": "https://animepahe.pw/",
+    "category": "Anime"
+  },
+  {
+    "name": "Animetsu",
+    "url": "https://animetsu.bz/",
+    "category": "Anime"
+  },
+  {
+    "name": "KickAssAnime",
+    "url": "https://kaa.to/",
+    "category": "Anime"
+  },
+  {
+    "name": "AnimeKai",
+    "url": "https://animekai.to/home",
+    "category": "Anime"
+  },
+  {
+    "name": "FAnime",
+    "url": "https://fanime.tv/",
+    "category": "Anime"
+  },
+  {
+    "name": "HiAnime",
+    "url": "https://hianime.cv/home",
+    "category": "Anime"
+  },
+  {
+    "name": "MangaBall",
+    "url": "https://mangaball.net/",
+    "category": "Manga"
+  },
+  {
+    "name": "Atsu",
+    "url": "https://atsu.moe/",
+    "category": "Manga"
+  },
+  {
+    "name": "Kagane",
+    "url": "https://kagane.org/",
+    "category": "Manga"
+  },
+  {
+    "name": "Onisaga",
+    "url": "https://onisaga.com/",
+    "category": "Manga"
+  },
+  {
+    "name": "Comick",
+    "url": "https://comick.dev/",
+    "category": "Manga"
+  },
+  {
+    "name": "Comix",
+    "url": "https://comix.to/",
+    "category": "Manga"
+  },
+  {
+    "name": "Qtoon",
+    "url": "https://qtoon.net/",
+    "category": "Manga"
+  },
+  {
+    "name": "MangaDex",
+    "url": "https://mangadex.org/",
+    "category": "Manga"
+  },
+  {
+    "name": "Mangago",
+    "url": "https://mangago.me/",
+    "category": "Manga"
+  },
+  {
+    "name": "MangaFire",
+    "url": "https://mangafire.to/home",
+    "category": "Manga"
+  },
+  {
+    "name": "AllManga",
+    "url": "https://allmanga.to/manga?cty=ALL",
+    "category": "Manga"
+  },
+  {
+    "name": "MangaKakalot",
+    "url": "https://www.mangakakalot.gg/",
+    "category": "Manga"
+  },
+  {
+    "name": "AsuraComic",
+    "url": "https://asuracomic.net/",
+    "category": "Manga"
+  },
+  {
+    "name": "ReadComicOnline",
+    "url": "https://readcomiconline.li/",
+    "category": "Manga"
+  },
+  {
+    "name": "MangaHub",
+    "url": "https://mangahub.io/",
+    "category": "Manga"
+  },
+  {
+    "name": "WeebCentral",
+    "url": "https://weebcentral.com/",
+    "category": "Manga"
+  },
+  {
+    "name": "MangaKatana",
+    "url": "https://mangakatana.com/",
+    "category": "Manga"
+  },
+  {
+    "name": "AnimeZ",
+    "url": "https://likemanga.ink/",
+    "category": "Manga"
+  },
+  {
+    "name": "TheTvApp",
+    "url": "https://thetvapp.to/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "TV247",
+    "url": "https://tv247.us/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "TheDaddy",
+    "url": "https://dlhd.dad/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "DaddyHD",
+    "url": "https://daddylive.org/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "NTVStream",
+    "url": "https://ntvstream.cx/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "PublicIPTV",
+    "url": "https://publiciptv.com/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "Sport+",
+    "url": "https://en12.sportplus.live/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "StreamEast",
+    "url": "https://xstreameast.com/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "iStreamEast",
+    "url": "https://istreameast.app/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "SportSurge",
+    "url": "https://v2.sportsurge.net/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "TV Garden",
+    "url": "https://tv.garden/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "RiveStream Live",
+    "url": "https://rivestream.org/livesports/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "Sportsbite",
+    "url": "https://livetv.moviebite.cc/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "GlobeTV",
+    "url": "https://globetv.app/",
+    "category": "Live TV & Sports"
+  },
+  {
+    "name": "Playtorrio",
+    "url": "https://playtorrio.pages.dev/",
+    "category": "Apps"
+  },
+  {
+    "name": "OnStream APKs",
+    "url": "https://onstreamapks.app/",
+    "category": "Apps"
+  },
+  {
+    "name": "HDO Box",
+    "url": "https://hdobox.net/",
+    "category": "Apps"
+  },
+  {
+    "name": "BeeTV",
+    "url": "https://beetv.download/",
+    "category": "Apps"
+  },
+  {
+    "name": "MovieBox",
+    "url": "https://www.moviesbox.com.co/home/",
+    "category": "Apps"
+  },
+  {
+    "name": "NetMirror",
+    "url": "https://netmirror.gg/2/en",
+    "category": "Apps"
+  },
+  {
+    "name": "PikaShow",
+    "url": "https://pikashowtv.in/",
+    "category": "Apps"
+  }
+]
