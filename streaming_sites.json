@@ -395,8 +395,18 @@
     "category": "Apps"
   },
   {
-    "name": "free games",
-    "url": "https://nohelp.com",
+    "name": "free pc games (windows)",
+    "url": "https://steamrip.com/",
+    "category": "Free Games"
+    },
+  {
+    "name": "free pc games (windows)",
+    "url": "https://online-fix.me/",
+    "category": "Free Games"
+      },
+  {
+    "name": "free pc games (windows) (single player only)",
+    "url": "https://online-fix.me/",
     "category": "Free Games"
   }
 ]
